@@ -1,0 +1,66 @@
+/* styles.css */
+
+/* Stiluri globale */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #121212; /* Negru închis */
+  color: #ffffff; /* Text alb */
+}
+
+/* Stiluri pentru butoane */
+button {
+  background-color: #1e1e1e; /* Gri închis */
+  color: #ffffff;
+  border: 1px solid #333333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #333333;
+}
+
+/* Stiluri pentru input-uri */
+input {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border: 1px solid #333333;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+input:focus {
+  outline: none;
+  border-color: #555555;
+}
+
+/* Stiluri pentru link-uri */
+a {
+  color: #03dac5; /* Verde deschis */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Stiluri pentru lista de înregistrări */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #1e1e1e;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #333333;
+}
+
+h1, h3 {
+  color: #ffffff;
+}

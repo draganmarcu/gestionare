@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "camp1": "Exemplu Camp1",
+      "camp2": "Exemplu Camp2",
+      "camp3": "Optional Camp3"
+    },
+    {
+      "id": "2",
+      "camp1": "Alt Exemplu Camp1",
+      "camp2": "Alt Exemplu Camp2",
+      "camp3": "Alt Optional Camp3"
+    },
+    {
+      "id": "3",
+      "camp1": "Camp1 Fără Camp3",
+      "camp2": "Camp2 Fără Camp3"
+    }
+  ]
+  
